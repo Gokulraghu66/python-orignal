@@ -1,0 +1,12 @@
+nor=int(input())
+pr=nor
+qr=0
+while(nor>0):
+  var=nor%10
+  nor=nor//10
+  var2=var**3
+  qr=qr+var2
+if(pr==qr):
+  print("yes")
+else:
+  print("no")
