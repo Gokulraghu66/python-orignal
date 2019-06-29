@@ -1,12 +1,12 @@
-nor=int(input())
-pr=nor
-qr=0
-while(nor>0):
-  var=nor%10
-  nor=nor//10
+nora=int(input())
+pra=nora
+qra=0
+while(nora>0):
+  vara=nora%10
+  nora=nora//10
   var2=var**3
-  qr=qr+var2
-if(pr==qr):
+  qra=qra+var2
+if(pra==qra):
   print("yes")
 else:
   print("no")
