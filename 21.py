@@ -1,3 +1,3 @@
-S,T,D=map(int,input().split())
-if(1<=S,T,D<=100000):
-  print((S*T)+(S*D))
+sa,ta,da=map(int,input().split())
+if(1<=sa,ta,da<=100000):
+  print((sa*Ta)+(sa*da))
