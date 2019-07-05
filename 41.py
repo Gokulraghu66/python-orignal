@@ -1,4 +1,4 @@
-a,b=input().split()
-b=int(b)
-for i in range(b):
-  print(a)
+asd,bsd=input().split()
+bsd=int(bsd)
+for i in range(bsd):
+  print(asd)
