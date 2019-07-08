@@ -1,3 +1,3 @@
-asd=int(input())
-aty=list(map(int,input().split()))
-print(min(aty),max(aty))
+asdf=int(input())
+atyu=list(map(int,input().split()))
+print(min(atyu),max(atyu))
