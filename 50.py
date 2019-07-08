@@ -1,5 +1,6 @@
 asd=int(input())
-if(asd%2==0):
+nn=asd & asd-1
+if(nn==0):
   print("yes")
 else:
   print("no")
