@@ -1,2 +1,2 @@
-    go,ge=map(int,input().split())
-    print(go+ge)
+go,ge=map(int,input().split())
+print(go+ge)
