@@ -1,5 +1,5 @@
 asd=input()
-ssd=set(s)
+ssd=set(asd)
 if (ssd=={"0","1"}):
  print("yes")
 else:
