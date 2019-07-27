@@ -1,2 +1,2 @@
-asd=input()
-print(asd[::-1])
+asdf=input()
+print(asdf[::-1])
